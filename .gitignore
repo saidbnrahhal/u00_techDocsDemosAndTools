@@ -1,0 +1,4 @@
+/.idea/
+/m00_dockerimages/src/main/docker/kafka/data/journal/
+/m00_dockerimages/src/main/docker/mongodb/data/
+/m00_dockerimages.iml
