@@ -2,3 +2,5 @@
 /m00_dockerimages/src/main/docker/kafka/data/journal/
 /m00_dockerimages/src/main/docker/mongodb/data/
 /m00_dockerimages.iml
+/u00_techDocsDemosAndTools.iml
+/m03_kafka-producer.iml
