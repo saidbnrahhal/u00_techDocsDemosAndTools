@@ -9,6 +9,16 @@ public class UserApi {
 
     private String email;
 
+    @Override
+    public String toString() {
+        return "UserApi{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", username='" + username + '\'' +
+                ", email='" + email + '\'' +
+                '}';
+    }
+
     public UserApi() {
     }
 
