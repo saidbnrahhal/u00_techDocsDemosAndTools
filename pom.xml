@@ -14,6 +14,7 @@
     <module>m01_diagramfiles</module>
     <module>m03_kafka-producer</module>
     <module>m04_kafka-consumer</module>
+      <module>m02_web-cient</module>
   </modules>
 
   <properties>
