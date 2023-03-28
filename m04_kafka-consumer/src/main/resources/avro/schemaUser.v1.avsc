@@ -1,0 +1,35 @@
+{
+  "type": "record",
+  "name": "UserRecord",
+  "namespace": "com.capgemini.pfe.v1",
+  "doc": "This topic contain information of user",
+  "fields": [
+    {
+      "name": "id",
+      "type": "int",
+      "doc": "it's an id and it's "
+    },
+    {
+      "name": "firstName",
+      "type": "string",
+      "doc": "first Name"
+    },
+    {
+      "name": "lastName",
+      "type": [
+        "null",
+        "string"
+      ],
+      "doc": "last name",
+      "default": null
+    },
+    {
+      "name": "age",
+      "type": [
+        "null",
+        "int"
+      ],
+      "doc": "age"
+    }
+  ]
+}

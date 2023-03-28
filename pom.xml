@@ -13,6 +13,7 @@
     <module>m00_dockerimages</module>
     <module>m01_diagramfiles</module>
     <module>m03_kafka-producer</module>
+    <module>m04_kafka-consumer</module>
   </modules>
 
   <properties>
