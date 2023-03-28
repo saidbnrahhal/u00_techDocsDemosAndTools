@@ -14,6 +14,7 @@ public class UserController {
     @GetMapping("/user")
     public String getAllUsers() {
         userApiFinder.sertLoadingUsers();
+        System.out.println("Start consuming apis and loading users from : https://jsonplaceholder.typicode.com/users");
         return "Start loading users ................";
 
     }
