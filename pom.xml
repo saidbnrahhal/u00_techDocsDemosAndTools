@@ -15,6 +15,7 @@
     <module>m03_kafka-producer</module>
     <module>m04_kafka-consumer</module>
       <module>m02_web-cient</module>
+      <module>m05_mongodb-microservice</module>
   </modules>
 
   <properties>
